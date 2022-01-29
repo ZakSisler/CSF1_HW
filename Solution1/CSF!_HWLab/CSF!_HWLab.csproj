@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSF__HWLab.FruitLoops2</StartupObject>
+    <StartupObject>CSF__HWLab.MadLibs</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="FruitLoops.cs" />
     <Compile Include="FruitLoops2.cs" />
+    <Compile Include="MadLibs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
