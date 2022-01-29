@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class_Login.cs" />
     <Compile Include="FruitLoops.cs" />
     <Compile Include="FruitLoops2.cs" />
     <Compile Include="MadLibs.cs" />
