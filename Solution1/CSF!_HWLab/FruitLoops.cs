@@ -13,6 +13,13 @@ namespace CSF__HWLab
             Console.WriteLine("Fruit Loops");
 
 
+            string[] fruit = {"apples", "oranges", "blueberries", "bananas", "watermelons", "kiwis"};
+
+            for (int i = 0; i < fruit.Length; i++)
+            {
+                Console.WriteLine(fruit[i]);
+            }
+            
         }
     }
 }
