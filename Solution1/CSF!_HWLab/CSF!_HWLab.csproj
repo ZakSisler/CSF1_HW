@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSF__HWLab.TempConverter</StartupObject>
+    <StartupObject>CSF__HWLab.Class_Login</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
